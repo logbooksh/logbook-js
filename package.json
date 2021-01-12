@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "repository": {},
+  "license": "",
+  "dependencies": {
+    "antlr4": "^4.9.1"
+  },
+  "devDependencies": {}
+}
